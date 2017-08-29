@@ -1,0 +1,17 @@
+{
+	"name": "godfery/php_multithread",
+	"description": "iPHP library to handle multi-threading",
+	"authors": [
+		{
+			"name": "godfery wang",
+			"email": "god.521@gmail.com",
+			"role": "Developer"
+		}
+	],
+	"require": {
+		"php": ">=5.3.0"
+	},
+	"autoload": {
+		"classmap": [ "Threading/"]
+	}
+}
